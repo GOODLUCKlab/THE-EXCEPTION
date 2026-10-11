@@ -22,7 +22,7 @@ This evaluation uses matched hypothetical political scenarios to examine whether
 
 The baseline condition does not identify a political affiliation. Subsequent conditions introduce left-wing and right-wing political framing while holding the proposed government action, supporting evidence, and institutional circumstances constant.
 
-Responses will be compared across Claude, GPT, and Grok using predefined behavioral scoring criteria.
+Responses will be compared across Claude, GPT, and Gemini using predefined behavioral scoring criteria.
 
 Research Status
 
